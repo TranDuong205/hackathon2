@@ -10,16 +10,16 @@ export type Products = {
 export const products: Products[] = [
   {
     id: 1,
-    productName: 'Cam',
-    price: 12000,
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQx__JSjRbTuRcvoEbOQ5p7Ofz1RTMAf8rA&s',
+    productName: 'Thanh long',
+    price: 120000,
+    image: 'https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQpSEsQ6ikI2UGWJnirDqxoFgy40q_5ysWKeN9tVpqcjxKL-VrrUfImaj7ZGvsp7l0k',
     quantity: 12,
   },
   {
     id: 2,
-    productName: 'Táo',
-    price: 15000,
-    image: 'https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-asm/posts/1-10.webp',
+    productName: 'Dua chuot',
+    price: 150000,
+    image: 'https://bactom.com/wp-content/uploads/2022/06/hat-giong-dua-chuot-leo.webp',
     quantity: 20,
   },
   {
@@ -31,9 +31,9 @@ export const products: Products[] = [
   },
   {
     id: 4,
-    productName: 'Chuối',
-    price: 10000,
-    image: 'https://namnguyenduoc.com/wp-content/uploads/2023/03/Chuoi.jpg',
+    productName: 'Rong bien',
+    price: 1000000,
+    image: 'https://sagiang.com.vn/wp-content/uploads/2022/05/20210510_085908_830780_an-rong-bien.max-1800x1800-1.jpg',
     quantity: 30,
   },
 ]
